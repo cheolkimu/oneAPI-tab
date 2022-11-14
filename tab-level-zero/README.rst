@@ -42,12 +42,15 @@ oneAPI Coummunity Forum
 
   * separates technical discussion from formal spec work
   * working groups formed to develop spec
+  * SIGs will still enable discussion of proposals - once ready these will graduate to the working groups.
   * SIGs influence specifications and implementations
 
 * Q&A
 
   Q: How does community feedback flow into SIGs? Show arrows where
   feeback flows.
+  A: Separating working group from SIG, the working groups would focuses spec while SIGs focus more broad technical topics.  Jeff Scheel suggested that     
+      merging the requests from both sides to align for the spec update would be good.
 
 Unfified Runtime Update
 -----------------------
